@@ -85,8 +85,11 @@ else:
  
 # Output :
 ![pic1](https://user-images.githubusercontent.com/93427253/232235723-414e91db-789f-4a10-a3d6-612d86d80f9e.png)
+
 ![pic2](https://user-images.githubusercontent.com/93427253/232235786-3f7c0a6f-9292-476a-aeb2-fa9c8d9fe8f4.png)
+
 ![pic3](https://user-images.githubusercontent.com/93427253/232235802-3f68553e-a098-4d43-a0ff-950fb29aa4ea.png)
+
 ![pic4](https://user-images.githubusercontent.com/93427253/232235815-0352b7e0-c9d8-40ee-987e-7a9999cc61de.png)
 
 # Results
